@@ -1,0 +1,61 @@
+body{
+    background-color: #ffffff;
+}
+
+/* CABECERA */
+#cabecera {
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    font-size: 25px;
+}
+
+/* CUERPO CENTRAL */
+#cuerpo{
+    text-align: center;
+    background-color: #191919 !important;
+    padding-bottom: 5%;
+}
+
+#titulo1{
+    padding-top: 50px;
+    color: white;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 200;
+    font-size: 22.5px;
+}
+
+#titulo2{
+    padding-top: 15px;
+    color: white;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 200;
+    font-size: 15px;
+}
+
+#titulo3{
+    padding-top: 15px;
+    color: white;
+    font-family: 'Corinthia', cursive;
+    font-weight: 200;
+    font-size: 25px;
+}
+
+.video-responsive {
+	height: 0;
+	overflow: hidden;
+	padding-bottom: 56.25%;
+	padding-top: 30px;
+	position: relative;
+	}
+    
+.video-responsive iframe, .video-responsive object, .video-responsive embed {
+    border: solid 8px #ffffff;
+    height: 80%;
+	left: 10%;
+	position: absolute;
+	top: 8%;
+	width: 80%;
+	}
+
